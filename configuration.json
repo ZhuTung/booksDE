@@ -1,0 +1,8 @@
+{
+    "aws_secret_access_key":"aws_secret_access_key",
+    "aws_access_key_id":"aws_access_key_id",
+    "service_name":"s3",
+    "region_name":"ap-southeast-1",
+    "bucket_name":"zt-books-bucket",
+    "file_name":"books.csv"
+}
